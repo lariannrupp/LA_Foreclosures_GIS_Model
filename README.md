@@ -2,7 +2,7 @@
 
 ---
 
-The purpose of this exercise is to chart a set of interactive GIS maps for Los Angelos real estate foreclosure data.
+The purpose of this exercise is to chart a set of interactive GIS maps for Los Angeles real estate foreclosure data.
 
 ---
 
